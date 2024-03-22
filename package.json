@@ -1,6 +1,6 @@
 {
   "name": "@vnlogin4/tea-vn4-quest",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Một thư viện giúp bạn tính tổng của 2 số bất kỳ",
   "main": "index.js",
   "scripts": {
@@ -11,16 +11,24 @@
     "url": "https://github.com/fardelli0/tea-vn4-quest.git"
   },
   "dependencies": {
-    "xxnhodenlon-chuantrang": "1.0.3",
-    "nhooodennlonnn": "1.0.7",
-    "phuongtrinh-3an-chuantruoi": "1.0.3",
-    "baannnntrinhhh": "1.0.9",
-    "canbac2-mastajikbrisktrev": "1.0.22",
-    "baccccc2cawnnnn": "1.0.11",
-    "bac3can-larufflepanamanian":"1.0.14",
-    "demtu0den-n-truongton12":"1.0.4",
-    "trungbinh-binhphuong-xacchuan":"1.0.12",
-    "binhhhphuonggggtbbb":"1.0.6"
+    "onedionys-cookie-management": "^1.0.0",
+    "onedionys-css-class-manipulation": "^1.0.0",
+    "onedionys-data-formatting-helpers": "^1.0.0",
+    "onedionys-data-storage": "^1.1.0",
+    "onedionys-date-languange": "^2.5.1",
+    "onedionys-date-time-utilities": "^1.0.0",
+	 "@haily/tea-haily-quest": "^1.0.8", 
+   "@haily/-tea-hailynew-quest": "^1.0.8", 
+   "@berik9999/tea-beriknew-quest": "^1.0.8",
+   "@vnlogin1/tea-vn1-quest": "^1.0.7",
+   "@vnlogin2/tea-vn2-quest": "^1.0.7",
+   "@vnlogin3/tea-vn3-quest": "^1.0.7",
+   "@vnlogin5/tea-vn5-quest": "^1.0.7",
+   "@vnlogin6/tea-vn6-quest": "^1.0.7",
+   "@vnlogin7/tea-vn7-quest": "^1.0.7",
+   "@vnlogin8/tea-vn8-quest": "^1.0.7",
+   "@vnlogin9/tea-vn9-quest": "^1.0.7",
+   "@vnlogin10/tea-vn10-quest": "^1.0.7"
     },
  "homepage": "https://github.com/fardelli0/tea-vn4-quest",
   "keywords": [
